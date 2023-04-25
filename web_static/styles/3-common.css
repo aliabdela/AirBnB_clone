@@ -1,7 +1,12 @@
-body {
+body{
     margin: 0;
     padding: 0;
     color: #484848;
     font-size: 14px;
-    font-family: Circular, "Helvetica Neue", Arial, sans-serif;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
