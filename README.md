@@ -245,10 +245,10 @@ user@ubuntu:~/AirBnB$
 
 ## Built with
 
-Ubuntu 14.04, Emacs, and Python3 language.
+Ubuntu 20.04 LTS using python3 (version 3.8.5)
 
 ## Authors
 
-Jhoan Stiven Zamora Caicedo | Github: [jzamora5](https://github.com/jzamora5) 
+Ali Abdela | Github: [aliabdela47](https://github.com/aliabdela47) 
 
-Jose David Caro Cantor | Github: [josecaro02](https://github.com/josecaro02)
+Ola Alonge
